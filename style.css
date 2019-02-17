@@ -1,0 +1,31 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0em;
+  background-color: whitesmoke;
+}
+
+h1 {
+  font-style: italic;
+  color: darkcyan;
+}
+
+h3 {
+font-weight: bold;
+color: lightseagreen; 
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  background-color: coral;
+  padding: 20px;
+  word-spacing: 8px;
+  font-size: 20px;
+}
